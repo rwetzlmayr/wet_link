@@ -69,10 +69,9 @@ All of the above forms support the following attributes:
 |*accesskey*|link attribute "accesskey".  Optional.|
 |*no_widow*| Suppress widows in titles. Optional.|
 
-
 Either *href*, *image*, *linkid* or *section*, *author*, and *category* are mutually exclusive.
 
-Largely based upon "zem_link":http://thresholdstate.com/software/3702/zem_link. Thanks, Alex!
+Largely based upon "zem_link":https://web.archive.org/web/20130126092940/http://thresholdstate.com/software/3702/zem_link. Thanks, Alex!
 
 # --- END PLUGIN HELP ---
 
