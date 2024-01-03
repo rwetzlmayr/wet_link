@@ -1,0 +1,54 @@
+# wet_link v0.10
+# Create all kinds of links
+# Robert Wetzlmayr
+# https://wetzlmayr.com/
+
+# ......................................................................
+# This is a plugin for Textpattern - http://textpattern.com/
+# To install: textpattern > admin > plugins
+# Paste the following text into the 'Install plugin' box:
+# ......................................................................
+
+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
